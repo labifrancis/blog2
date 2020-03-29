@@ -1,0 +1,10 @@
+@media(min-width:360px) and (max-width:900px){
+   main {
+   display: flex;
+   flex-flow: column wrap;
+   background-color:gainsboro;
+   }
+  }
+  .post{
+      width: 50%;
+  }

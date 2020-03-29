@@ -1,0 +1,38 @@
+@import url("style.css");
+body {
+  height: 100%;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+}
+aside {
+  width: 100%;
+  align-content: flex-end;
+  align-items: flex-end;
+  background-color: rgba(0, 0, 0, 0.356);
+  padding: 1em;
+  margin: 1em;
+  color: white;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  row-gap: ;
+  align-content: flex-end;
+}
+
+
+button {
+  width: 10em;
+  height: 2em;
+}
+
+img {
+  width: 20%;
+  height: 20%;
+  float: left;
+  margin: 2px;
+  display: inline;
